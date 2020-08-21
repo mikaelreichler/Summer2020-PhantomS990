@@ -3,6 +3,9 @@ Required dependencies:
 Coaxlink drivers under C:\Program Files
 
 
+
+Compiling and running the program in Visual Studio 2019:
+
 Open Visual Studio.
  -> Choose Create a new project
  -> Search for "empry project" 
